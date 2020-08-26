@@ -1,1 +1,1 @@
-# VGG16_cifar_pytorch
+# VGG16_cifar10_pytorch
